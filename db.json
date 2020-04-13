@@ -6,14 +6,14 @@
   ],
   "software_types" : [
 	{ 
-		"id" : 1, "name" : "Players", "player_platform" : [
+		"id" : 1, "name" : "Players", "players_platform" : [
 			{ "pid": 1, "name": "Android" },
 			{ "pid": 2, "name": "Windows" },
 			{ "pid": 3, "name": "Webclients" }
 		]
 	},
 	{ 
-		"id" : 2, "name" : "Servers", "server_platform" : [
+		"id" : 2, "name" : "Servers", "servers_platform" : [
 			{"pid" : 1, "name" : "PHP"},
 			{"pid" : 2, "name" : "React"},
 			{"pid" : 3, "name" : "Python"}
